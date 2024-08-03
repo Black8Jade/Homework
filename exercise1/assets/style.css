@@ -1,0 +1,90 @@
+header, footer {
+    background-color: lightgrey ;
+}
+header {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main, aside {
+    display: flex;
+    flex-direction: row;
+}
+main div {
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    width: 1503px;
+}
+main p {
+    text-align: center;
+}
+main section {
+    background-color: bisque;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    margin: 60%;
+}
+.section1 {
+    height: 30px;
+    width: 200px;
+    margin: 20px;
+}
+.section2 {
+    height: 30px;
+    width: 200px;
+    margin: 20px;
+}
+.section3 {
+    height: 30px;
+    width: 200px;
+    margin: 20px;
+}
+aside {
+    background-color: rgba(142, 231, 142, 0.877);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    width: 1200px;
+}
+footer {
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+footer section {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#section1 {
+    height: 30px;
+    width: 200px;
+    margin: 70px;
+}
+#section2 {
+    height: 30px;
+    width: 200px;
+    margin: 70px;
+}
+#section3 {
+    height: 30px;
+    width: 200px;
+    margin: 70px;
+}
+#section4 {
+    height: 30px;
+    width: 200px;
+    margin: 70px;
+}
+
+
